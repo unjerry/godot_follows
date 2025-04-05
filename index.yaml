@@ -1,0 +1,14 @@
+- name: "godot making simple sokoban (crate pushing puzzle game)"
+  alias: "sokoban001"
+  link: "https://youtu.be/ADPFwOVJyWE"
+  progress: 0
+
+- name: "The Toucanoban mini-course: Sokoban-style puzzler in Godot!"
+  alias: "sokoban002"
+  link: "https://youtu.be/kKFHRGoaiAc"
+  progress: 0
+
+- name: "Godot sokoban FR tuto 1"
+  alias: "sokban003"
+  link: "https://youtu.be/Pmwxe_EhQWY"
+  progress: 0
